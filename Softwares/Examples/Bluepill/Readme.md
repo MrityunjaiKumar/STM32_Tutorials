@@ -3,6 +3,11 @@
 
 STM32F103C8T6 
 
+# Examples
+
+* [Example based on only HAL Based libraries](Using_HAL_Libraries/)
+* [Example based on FreeRtos and HAL based libraries](Using_FreeRtos_and_HAL/)
+
 # BluePill pinouts
 
 ![Pinouts](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/../../F1&#32;series/stm32f103-pinout-diagram.png)
