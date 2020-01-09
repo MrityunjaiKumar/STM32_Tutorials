@@ -1,6 +1,6 @@
 # STM32_Tutorials
 
-## Settinsg & Examples
+## Settings & Examples
 
 ### BluePill (STM32F103C8)
 
