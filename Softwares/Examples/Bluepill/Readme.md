@@ -3,6 +3,15 @@
 
 STM32F103C8T6 
 
+# BluePill pinouts
+
+![Pinouts](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/../../F1&#32;series/stm32f103-pinout-diagram.png)
+
+## Related Documents
+
+  * [Datasheet - stm32f103c8](../../../Docs/F1&#32;series/Datasheet&#32;stm32f103c8.pdf)
+  *  [User Manual - Description of STM32F1 HAL and Low-layer drivers](../../../Docs/F4&#32;series/../F1&#32;series/User&#32;Manual&#32;en.DM00154093.pdf)
+
 ## Settings for St-link-v2
 
 ![ST-LINK-V2](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/../../F1&#32;series/BluePill_Settings_for_stLink_v2/ST-link-v2.png)
