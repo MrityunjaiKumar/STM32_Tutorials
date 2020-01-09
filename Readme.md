@@ -1,6 +1,6 @@
 # STM32_Tutorials
 
-## Examples
+## Settinsg & Examples
 
 ### BluePill (STM32F103C8)
-For examples related to BluePill in Stm32Cube_IDE, use this [BluePill_Directory](Softwares/Examples/Bluepill/)
+For settings and examples related to BluePill in Stm32Cube_IDE, use this [BluePill_Directory](Softwares/Examples/Bluepill/)
