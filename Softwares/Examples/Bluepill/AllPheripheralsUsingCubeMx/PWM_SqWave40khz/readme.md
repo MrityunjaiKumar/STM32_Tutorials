@@ -2,7 +2,9 @@
 
 This examples shows how to generate a Square Wave using PWM, frequency is set to 40Khz, clock speed to counter is 36Mhz(prescaler of 2 is set as system clock is 72Mhz), top is set to 899(it's actually 900, from 0-899) to get 40Khz frequency, period is set to half of top(i.e. 449) to get 50% duty cycle.
 
-            ADD LOGIC ANALYSER IMAGE
+### Output captured on logic analyser.
+
+![image-a](./ReadmePictures/40KHZ_SQUARE_WAVE.JPG)
 
 ## Common functions are
 
