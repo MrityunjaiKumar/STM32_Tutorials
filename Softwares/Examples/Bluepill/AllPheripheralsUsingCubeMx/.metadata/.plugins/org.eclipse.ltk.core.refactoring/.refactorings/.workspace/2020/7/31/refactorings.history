@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;AnalogRead&apos; to &apos;AnalogRead_16khz_SamplingRate&apos;" description="Rename resource &apos;AnalogRead&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/AnalogRead" name="AnalogRead_16khz_SamplingRate" stamp="1595789975963" updateReferences="true"/>
+</session>

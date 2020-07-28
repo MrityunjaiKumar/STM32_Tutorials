@@ -1,0 +1,10 @@
+17:37:15 **** Incremental Build of configuration Debug for project DigitalWrite ****
+make -j4 all 
+arm-none-eabi-size   DigitalWrite.elf 
+   text	   data	    bss	    dec	    hex	filename
+   4700	     20	   1572	   6292	   1894	DigitalWrite.elf
+Finished building: default.size.stdout
+ 
+
+17:37:17 Build Finished. 0 errors, 0 warnings. (took 1s.331ms)
+

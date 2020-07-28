@@ -1,0 +1,13 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+activeLaunchTarget=null\:---
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:DigitalRead Debug
+eclipse.preferences.version=1
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:AnalogRead_16khz_SamplingRate\ Debug/activeLaunchMode=run
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:DigitalWrite\ Debug/activeLaunchMode=debug
+org.eclipse.cdt.dsf.gdb.gdbRemotedescriptorType\:PWM_SqWave40khz\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:AnalogRead_16khz_SamplingRate\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:AnalogRead_16khz_SamplingRate\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
+org.eclipse.launchbar.core.descriptorType.default\:DigitalRead\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:DigitalRead\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

@@ -1,0 +1,10 @@
+23:11:01 **** Incremental Build of configuration Debug for project PWM_SqWave40khz ****
+make -j4 all 
+arm-none-eabi-size   PWM_SqWave40khz.elf 
+   text	   data	    bss	    dec	    hex	filename
+   7644	     20	   1636	   9300	   2454	PWM_SqWave40khz.elf
+Finished building: default.size.stdout
+ 
+
+23:11:02 Build Finished. 0 errors, 0 warnings. (took 567ms)
+
