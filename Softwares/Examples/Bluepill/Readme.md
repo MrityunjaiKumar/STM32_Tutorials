@@ -56,7 +56,7 @@ Micro-Controller on Bluepill - **STM32F103C8T6**
 <table>
     <thead>
         <td colspan="2">
-            <b> STM32 BluePill </b>
+            <b> STM32BluePill </b>
         </td>
         <td colspan="2">
             <b> ST-Link V2 USB Debugger </b>
@@ -64,19 +64,19 @@ Micro-Controller on Bluepill - **STM32F103C8T6**
     </thead>
     <tbody>
         <tr>
-            <td> 3V3 </td><td> [Red] </td>
+            <td> 3V3 </td><td>  </td>
             <td> 3.3V </td><td> (Pin 8) </td>
         </tr>
         <tr>
-            <td> IO </td><td> [Orange] </td>
+            <td> IO </td><td> </td>
             <td> SWDIO </td><td> (Pin 4) </td>
         </tr>
         <tr>
-            <td> CLK </td><td> [Brown] </td>
+            <td> CLK </td><td>  </td>
             <td> SWDCLK </td><td> (Pin 2) </td>
         </tr>
         <tr>
-            <td> GND </td><td> [Black] </td>
+            <td> GND </td><td>  </td>
             <td> GND </td><td> (Pin 6) </td>
         </tr>
     </tbody>
