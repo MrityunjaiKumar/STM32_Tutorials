@@ -27,7 +27,7 @@ Micro-Controller on Bluepill - **STM32F103C8T6**
 
 2. In MCU/MPU selector tab search for part no. STM32F103C8.
 
-    ![](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/../../F1&#32;series/BluePill_Settings_for_stLink_v2/../../F1&#32;series/BluePill_Settings_for_stLink_v2/blink_steps2.PNG)
+    ![](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/blink_steps2.PNG)
 
 3. Enter project name and click Finish. Device configuration tool will open.
 
@@ -44,6 +44,7 @@ Micro-Controller on Bluepill - **STM32F103C8T6**
     ![Step3](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/../../F1&#32;series/BluePill_Settings_for_stLink_v2/3_configure_clock.png)
 
 7. Click on pin PC13(on Board LED on bluepill) and choose GPIO_Output.
+    ![](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/blink_steps7.JPG)
 
 **CubeMX configurations are completed. Press CTRL + S to auto generate code as per desired configurations.** 
 
