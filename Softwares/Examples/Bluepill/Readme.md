@@ -103,10 +103,10 @@ Blink LED project is present in this directory [BLINK_LED](AllPheripheralsUsingC
 We can also flash binary files directly to chip using this tool.
 
 1. Open ST-Link Utlity --> Target --> Connect.
-    ![](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/../../F1&#32;series/BluePill_Settings_for_stLink_v2/stlinkutility1.png)
-
+    
 2. Then click on Target --> Program & Verify.
     Select binary file and click start.
+    ![](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/../../F1&#32;series/BluePill_Settings_for_stLink_v2/stlinkutility1.png)
 
 # Examples
 
