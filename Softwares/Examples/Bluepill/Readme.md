@@ -13,7 +13,7 @@ Micro-Controller on Bluepill - **STM32F103C8T6**
   *  [User Manual - Description of STM32F1 HAL and Low-layer drivers](../../../Docs/F4&#32;series/../F1&#32;series/User&#32;Manual&#32;en.DM00154093.pdf)
 
 # Software Requirements :
-1. Java Runtime Environment - [Click here to go to download page]() 
+1. Java Runtime Environment - [Click here to go to download page](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) 
 
 2. STM32CubeIDE - [Click here to go to download page](https://www.st.com/en/development-tools/stm32cubeide.html#get-software) 
 
@@ -90,7 +90,7 @@ Micro-Controller on Bluepill - **STM32F103C8T6**
 
 ```HAL_Delay(1000);```
 
-Blink LED project is present in this directory [BLINK_LED](Softwares/Examples/Bluepill/AllPheripheralsUsingCubeMx/DigitalWrite/)
+Blink LED project is present in this directory [BLINK_LED](AllPheripheralsUsingCubeMx/DigitalWrite/)
 
 2. Build the project by clicking on hammer icon.
 
