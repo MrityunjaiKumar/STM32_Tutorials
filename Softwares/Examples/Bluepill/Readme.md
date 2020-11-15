@@ -26,8 +26,7 @@ Micro-Controller on Bluepill - **STM32F103C8T6**
 1. Open STM32CubeIDE --> Create a new workspace --> Start new STM32 project.
 
 2. In MCU/MPU selector tab search for part no. STM32F103C8.
-
-    ![](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/blink_steps2.PNG)
+    ![](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/blink_steps2.png)
 
 3. Enter project name and click Finish. Device configuration tool will open.
 
@@ -91,7 +90,7 @@ Micro-Controller on Bluepill - **STM32F103C8T6**
 
 ```HAL_Delay(1000);```
 
-Blink LED project is present in this directory [BLINK_LED](Softwares/Examples/Bluepill/AllPheripheralsUsingCubeMx/DigitalWrite)
+Blink LED project is present in this directory [BLINK_LED](Softwares/Examples/Bluepill/AllPheripheralsUsingCubeMx/DigitalWrite/)
 
 2. Build the project by clicking on hammer icon.
 
