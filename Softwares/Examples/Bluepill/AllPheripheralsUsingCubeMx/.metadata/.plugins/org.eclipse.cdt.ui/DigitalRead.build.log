@@ -1,0 +1,10 @@
+19:10:00 **** Incremental Build of configuration Debug for project DigitalRead ****
+make -j4 all 
+arm-none-eabi-size   DigitalRead.elf 
+   text	   data	    bss	    dec	    hex	filename
+   9788	    128	   1760	  11676	   2d9c	DigitalRead.elf
+Finished building: default.size.stdout
+ 
+
+19:10:01 Build Finished. 0 errors, 0 warnings. (took 530ms)
+
