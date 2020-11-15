@@ -94,9 +94,19 @@ Blink LED project is present in this directory [BLINK_LED](AllPheripheralsUsingC
 
 2. Build the project by clicking on hammer icon.
 
-3. Now, to push the generated code using Stlink-V2 do the following configuration in debug settings, and click debug.
+3. Now, to push the generated code using Stlink-V2 do the following configuration in debug settings, and after connecting ST-link click debug.
     
-    ![Step4](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/../../F1&#32;series/BluePill_Settings_for_stLink_v2/4_debug_configuration.png)
+    ![](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/../../F1&#32;series/BluePill_Settings_for_stLink_v2/4_debug_configuration.png)
+
+# Flashing binary files using ST-Link utility:
+
+We can also flash binary files directly to chip using this tool.
+
+1. Open ST-Link Utlity --> Target --> Connect.
+    ![](../../../Docs/F1&#32;series/BluePill_Settings_for_stLink_v2/../../F1&#32;series/BluePill_Settings_for_stLink_v2/stlinkutility1.png)
+
+2. Then click on Target --> Program & Verify.
+    Select binary file and click start.
 
 # Examples
 
